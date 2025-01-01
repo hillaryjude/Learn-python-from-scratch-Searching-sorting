@@ -18,17 +18,3 @@ This repository contains implementations of various sorting algorithms.
 - [Selection Sort](#selection-sort)
 - [Merge Sort](#merge-sort)
 
-## Insertion Sort
-Description and implementation of Insertion Sort.
-
-## Bubble Sort
-Description and implementation of Bubble Sort.
-
-### Optimized Bubble Sort
-Description and implementation of Optimized Bubble Sort.
-
-## Selection Sort
-Description and implementation of Selection Sort.
-
-## Merge Sort
-Description and implementation of Merge Sort.
