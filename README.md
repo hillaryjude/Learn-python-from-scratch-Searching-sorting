@@ -1,3 +1,5 @@
+# Searching Algorithms
+
 ## Table of Contents
 1. [Linear Search](#linear-search): A simple search algorithm that checks every element in a list until the desired element is found or the list ends.
 2. [Binary Search](#binary-search): A more efficient search algorithm that works on sorted lists by repeatedly dividing the search interval in half.
